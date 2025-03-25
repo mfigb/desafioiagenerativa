@@ -30,6 +30,26 @@ Após a conclusão da configuração, foi utilizado o assistente para realizar i
 ![image](https://github.com/user-attachments/assets/9e96a540-0b10-4ce3-9e58-953c6cbb50c7)
 
 
+### Azure OpenIA
+
+Para este desafio, foi utilizado o recurso de tradução de texto da Azure OpenAI, aproveitando as capacidades da plataforma para realizar a tradução de forma automática e eficiente.
+
+![image](https://github.com/user-attachments/assets/0bd7515b-cd42-4b87-ad0a-f758361ce799)
+
+![image](https://github.com/user-attachments/assets/fdbb6da3-638c-4af8-9204-86c98ab50880)
+
+
+#### Utilização de filtros para evitar a saída de conteúdo prejudicial.
+
+Para este processo, foram utilizados os filtros de conteúdo padrão do Azure AI Foundry, com o objetivo de garantir que prompts e conclusões potencialmente prejudiciais fossem identificados e removidos durante as interações com o serviço.
+
+![image](https://github.com/user-attachments/assets/f6399115-5111-450c-bfda-04354c68dfa8)
+
+![image](https://github.com/user-attachments/assets/cb5a4237-636e-4758-8249-e190fca0fe0b)
+
+
+
+
 
 
 
